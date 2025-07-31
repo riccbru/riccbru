@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riccbru&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riccbru&theme=monokai" />
 </div>
 
 <br>
